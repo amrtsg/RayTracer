@@ -15,3 +15,8 @@ NOTE: Before running the project, don't forget to setup "raytrace" as your start
 ## Final RayTraced Image
 
 ![alt text](https://github.com/amrtsg/RayTracer2/blob/master/result.png?raw=true)
+
+## Dependencies 
+
+### OpenCV (Included)
+### Eigen  (Included)
