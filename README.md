@@ -1,4 +1,4 @@
-# RayTracer2
+# RayTracer
 
 To run project, create a Visual Studio Solution using CMake
 
